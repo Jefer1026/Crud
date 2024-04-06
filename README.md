@@ -84,4 +84,4 @@ License
 This project is licensed under the MIT License.
 
 Contact
-If you have any questions or suggestions related to this project, please contact the development team via email: jog1026@hotmail.com.
+If you have any questions or suggestions related to this project, please contact me via email: jog1026@hotmail.com.
